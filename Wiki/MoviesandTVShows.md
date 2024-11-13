@@ -10,7 +10,9 @@
 If you are streaming movies/tv shows and it's buffering, you can try [FastStream](https://FastStream.online). FastStream downloads video fragments in parallel. Up to 6x faster download speeds for videos, ensuring smooth playback with no interruptions, with other awesome features.
 :::
 
-- ⭐ [watch.lonelil](https://watch.lonelil.com/): Also has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
+- ⭐ [watch.lonelil](https://watch.lonelil.com/): Has live TV / 4K & Lower / Fast loading speeds / Good design / Multi Server / [Add this extension for better streams](https://watch.lonelil.com/onboarding).
+
+- ⭐ [456movies](https://456movie.com/): 4K, 1080p & Lower / Good design / Multi server
 
 - ⭐ [Kipstream](https://kipstream.lol/): 1080p & lower / Fast loading speeds / Good design / Multi server.
 
