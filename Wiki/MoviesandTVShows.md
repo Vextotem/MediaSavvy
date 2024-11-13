@@ -81,15 +81,15 @@ Make sure to use a VPN!
 
 - ⭐ [Stremio](https://stremio.com): Supports downloading / 4K and lower / [Guide](https://rentry.co/a-guide-to-stremio)
 
-- ⭐ [NovaTV](https://www.novatv.app) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=novatv&sf=titleonly)**
+- ⭐ [NovaTV](https://www.novatv.app) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=novatv&sf=titleonly)
 
 You can download movies / Good design / 1080p & lower
 
-- ⭐ [FilmPlus](https://www.filmplusapp.com) | [Remove the in app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=filmplus&sf=titleonly)**
+- ⭐ [FilmPlus](https://www.filmplusapp.com) | [Remove the in app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=filmplus&sf=titleonly)
 
 You can download movies / Ok design / 1080p & lower
 
-- ⭐ [HDO Box](https://hdo.app) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)**
+- ⭐ [HDO Box](https://hdo.app) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)
 
 You can download movies / Good design / 1080p & lower
 
@@ -99,7 +99,7 @@ Open-source / Ad-free / Can't download movies yet / Good Design / 1080p & lower 
 - [Miru](https://github.com/miru-project/miru-app):
 Open-source / Ad-free / Can't download movies / Ok design / 1080p & lower / Very Fast
 
-- [BeeTV](https://www.beetvapp.me) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=beetv&sf=titleonly)**
+- [BeeTV](https://www.beetvapp.me) | [Remove the in-app ads](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=beetv&sf=titleonly)
 You can download movies / Ok design / 1080p & lower
 
 ***
