@@ -36,7 +36,7 @@
 
 ### Adblocking for iOS:
 
-- ↪️⭐ [System-wide adblocking guide](https://rentry.co/system-wide-adblocking-for-ios): A guide made by MediaSavvy that explains how you can block most ads system-wide on iOS & iPadOS.
+- ↪️ [System-wide adblocking guide](https://rentry.co/system-wide-adblocking-for-ios): A guide made by MediaSavvy that explains how you can block most ads system-wide on iOS & iPadOS.
 
 - ⭐ [Orion](http://kagi.com/orion/): Browser that supports adding Firefox and Chromium extensions, including adblockers.
 
@@ -58,8 +58,7 @@ Only install one adblocker, using multiple adblockers can reduce their effective
 Once Google introduces Manifiest V3 adblockers like uBlock Origin and many other extensions will be ruined and won't work anymore. Once this happens it's best just to switch to Firefox or a Firefox based browser.
 :::
 
-- ⭐ [uBlock Origin](https://ublockorigin.com/): [Enable these filters](https://private-user-images.githubusercontent.com/11689349/327171428-f1925d65-963f-4bb8-aebf-d083ee5f9825.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk5NjMwOTUsIm5iZiI6MTcyOTk2Mjc5NSwicGF0aCI6Ii8xMTY4OTM0OS8zMjcxNzE0MjgtZjE5MjVkNjUtOTYzZi00YmI4LWFlYmYtZDA4M2VlNWY5ODI1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI2VDE3MTMxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNjMmIzMjA0MzM1YTQ5MTdlYjI1NmU0NTg1NWM2NDhmZjVlMWU3ZDI3ODdmNjlkZTIwOWE0NTY5NjNmODVmZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.flGI_tnKG0EggrtDHI6XoPI5UjQx3_Rul5ZGXN1m3Gk)
-
+- ⭐ [uBlock Origin](https://ublockorigin.com/): [Enable these filters](https://i.ibb.co/jyN4k2f/327171428-f1925d65-963f-4bb8-aebf-d083ee5f9825.png)
 - ⭐ [SponsorBlock](https://sponsor.ajay.app/): Skip sponsored Youtube ads.
 
 - ⭐ [OpenVideo](https://openvideofs.github.io/): Play videos in an ad-free player.
@@ -90,7 +89,7 @@ Once Google introduces Manifiest V3 adblockers like uBlock Origin and many other
 
 ### Article Paywall Bypassers
 
-- ↪️⭐ [Bypass Paywall Guide](https://rentry.co/bypass-article-paywalls-guide): A guide by MediaSavvy which explains how you can bypass basically all paywalled articles without using 3rd party tools.
+- ↪️ [Bypass Paywall Guide](https://rentry.co/bypass-article-paywalls-guide): A guide by MediaSavvy which explains how you can bypass basically all paywalled articles without using 3rd party tools.
 
 - ⭐ [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads): Browser extension.
 
