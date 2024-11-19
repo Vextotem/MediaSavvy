@@ -14,15 +14,17 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 - ⭐ [456movies](https://456movie.com/): 4K, 1080p & Lower / Good design / Multi server
 
-- ⭐ [Kipstream](https://kipstream.lol/): 1080p & lower / Fast loading speeds / Good design / Multi server.
+- ⭐ [Kipstream](https://kipstream.lol/): 1080p & lower / Fast loading speeds / Good design / Multi server
 
 
-- ⭐ [RidoMovies](https://ridomovies.tv/): 1080p & Lower / Fast loading speeds / Good design / Single Server.
+- ⭐ [RidoMovies](https://ridomovies.tv/): 1080p & Lower / Fast loading speeds / Good design / Single Server
 
-- ⭐ [Streamflix](https://watch.streamflix.one/): Also has live TV / 1080p & Lower / Ok loading speeds / Good Design / Multi Server.
+- ⭐ [Cineby](https://www.cineby.ru/): 1080p & lower / Fast loading speeds / Good design / Multi server / Auto next 
+
+- ⭐ [Streamflix](https://watch.streamflix.one/): Also has live TV / 1080p & Lower / Ok loading speeds / Good Design / Multi Server
 
 
-- ⭐ [Freek](https://freek.to) (Previously Binged): 4K & Lower / Single Server / Fast loading speeds / Great design.
+- ⭐ [Freek](https://freek.to) (Previously Binged): 4K & Lower / Multi Server / Fast loading speeds / Great design
 
 - ⭐ [PrimeFlix](https://primeflix-web.vercel.app/): 1080p, 4K and lower / Fast loading speeds / Good Design / Multi Server.
 
