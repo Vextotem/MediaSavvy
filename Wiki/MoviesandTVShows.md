@@ -19,11 +19,11 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 - ⭐ [Cineby](https://www.cineby.ru/): 1080p & lower / Fast loading speeds / Good design / Multi server / Auto next 
 
-- ⭐ [Freek](https://freek.to) (Previously Binged): 4K & Lower / Multi Server / Fast loading speeds / Great design
+- ⭐ [Freek](https://freek.to) (Previously Binged): 4K & Lower / Multi Server / Fast loading speeds / Great design / Auto next 
 
 - ⭐ [PrimeFlix](https://primeflix-web.vercel.app/): 1080p, 4K and lower / Fast loading speeds / Good Design / Multi Server.
 
-- ⭐ [movie-web](https://erynith.github.io/movie-web-instances/): 1080p, 4K & lower / Fast loading speeds / Allows you to download movies / Multi Server / Great Design / [Add more sources](https://pastebin.com/w8Brq2UA).
+- ⭐ [movie-web](https://erynith.github.io/movie-web-instances/): 1080p, 4K & lower / Fast loading speeds / Allows you to download movies / Multi Server / Great Design / Auto next / [Add more sources](https://pastebin.com/w8Brq2UA).
 
 - ⭐ [NetPlay](https://netplayz.ru/): 1080p & lower / Fast loading speeds / Multi Server / User-friendly design.
 
@@ -31,7 +31,7 @@ If you are streaming movies/tv shows and it's buffering, you can try [FastStream
 
 - ⭐ [Catflix](https://catflix.su/): 1080p & Lower / Fast loading speeds / Single Server / Awesome design.
 
-- ⭐ [Nunflix](https://nunflix.org/): 4K & Lower / Fast loading speeds / Multi Server / Great design.
+- ⭐ [Nunflix](https://nunflix.org/): 4K & Lower / Fast loading speeds / Multi Server / Great design / Auto next
 
 - [RidoMovies](https://ridomovies.tv/): 1080p & Lower / Fast loading speeds / Good design / Single Server
 
