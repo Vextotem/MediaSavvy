@@ -1,4 +1,4 @@
-# 📱 Mobile (Being updated...)
+# 📱 Mobile (Currently being updated...)
 ### Useful tools and resources for Android and iOS
 
 ## Android APKS:
