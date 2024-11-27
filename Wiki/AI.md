@@ -13,8 +13,6 @@
 
 - ⭐ [Microsoft Copilot](https://copilot.microsoft.com/): Free GPT-4o powered search and chatbot / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 
-- ⭐ [AI Uncensored](https://www.aiuncensored.info/): Uncensored AI, no limits, option to run models locally, 3 different personas (psychologist, creative writer and advisor).
-
 - ⭐ [FlowGPT](https://flowgpt.com/chat): Roleplaying chatbots.
 
 - ⭐ [Character.AI](https://character.ai/): Roleplaying chatbots.
