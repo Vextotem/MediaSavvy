@@ -14,8 +14,8 @@ hero:
 features:  
   - title: Email
     details: You can contact me via email.
-    link: mailto:mediasavvvy@outlook.com
+    link: mailto:jackthehack@digdig.org
   - title: Discord Server
-    link: https://discord.com/invite/uEKARuGczF
-    details: Talk to me on MediaSavvy's Discord server.
+    link: https://discord.gg/FhUy5CHR3z
+    details: Talk to me on Trendingpie's Discord server.
 ---
