@@ -17,7 +17,7 @@ hero:
       link: /contact-me
     - theme: alt
       text: Discord (Link fixed)
-      link: https://discord.com/invite/uEKARuGczF
+      link: https://discord.gg/FhUy5CHR3z
 
 features:
   - icon: 📅
