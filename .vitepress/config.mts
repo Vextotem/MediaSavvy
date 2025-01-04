@@ -2,22 +2,22 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'MediaSavvy',
-  description: "A piracy and all purpose wiki",
+  title: 'Trendingpie',
+  description: "A piracy and all-purpose wiki",
   titleTemplate: 'Piracy Wiki',
-head: [
-  ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-  ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
-  ['meta', { name: 'description', content: 'A piracy and all-purpose wiki' }],
-  ['meta', { property: 'og:title', content: 'MediaSavvy' }],
-  ['meta', { property: 'og:description', content: 'A piracy and all-purpose wiki' }],
-  ['meta', { property: 'og:image', content: '/favicon.ico' }],
-  ['meta', { property: 'og:url', content: 'https://mediasavvy.pages.dev' }],
-  ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-  ['meta', { name: 'twitter:title', content: 'MediaSavvy' }],
-  ['meta', { name: 'twitter:description', content: 'A piracy and all-purpose wiki' }],
-  ['meta', { name: 'twitter:image', content: '/favicon.ico' }]
-],
+  head: [
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
+    ['meta', { name: 'description', content: 'A piracy and all-purpose wiki' }],
+    ['meta', { property: 'og:title', content: 'Trendingpie' }],
+    ['meta', { property: 'og:description', content: 'A piracy and all-purpose wiki' }],
+    ['meta', { property: 'og:image', content: '/favicon.ico' }],
+    ['meta', { property: 'og:url', content: 'https://trendingpie.com' }],  // Updated URL
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'Trendingpie' }],  // Updated name
+    ['meta', { name: 'twitter:description', content: 'A piracy and all-purpose wiki' }],
+    ['meta', { name: 'twitter:image', content: '/favicon.ico' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
@@ -66,8 +66,7 @@ head: [
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/MediaSavvy/MediaSavvy_Wiki' }
+      { icon: 'github', link: 'https://github.com/Trendingpie/Trendingpie_Wiki' }  // Updated GitHub link
     ]
   }
 })
-
