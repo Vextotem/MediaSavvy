@@ -6,7 +6,7 @@ hero:
   text: "A piracy & all-purpose wiki"
   tagline: "With a focus on quality over quantity"
   image:
-    src: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYFdFq4ozPQh6UIDNhkPMXUbycXlLRBowx6kSNsUC59KQ3YYBVeMDqGym3F1wtgZTGqK3NRcjFvMMkTAwlTnTgJPY34OJYWisad2kEC2GpinP-IDbI4lTnbXD9L_n_RJTFCX01_5jb7xeA5VEai9qajBuGXKsSXxTlE3ydSaWEDDUVQdkb-4RamIkZ2S0/s1600/aa8e60b1370f0e52bf606f286f629a39.jpg
+    src: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVEdKwTW7bLLAci9YOllyHUCVOq2p0GQ7ebdACq9UnHEVqICT3DqD6JqGxhHrlcEiCNsXiDN0MeFZzmMcpmOny48-ubcrieRyOp18xlISDPzOmMfODD35RYu-JbPAe_-Xw5LiqgMsF13ZxTDCttEeeEYhRIidwrNfY4bFm57G9HTZSZq3POPgyIktvGH8/s1600/1000095347.png.jpg
     alt: Logo
   actions:
     - theme: brand
